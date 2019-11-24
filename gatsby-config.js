@@ -1,12 +1,12 @@
 module.exports = {
   pathPrefix: "/fayeg",
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    title: `Faye's Blog`,
+    author: `Faye Tandog`,
+    description: `Faye's Blog`,
+    siteUrl: `https://tsl143.github.io/fayeg/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `fayetandog`,
     },
   },
   plugins: [
